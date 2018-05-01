@@ -9,6 +9,7 @@
   "author": "F Crescioni",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.7.9"
+    "electron": "^1.7.9",
+    "hoek": "^5.0.3"
   }
 }
